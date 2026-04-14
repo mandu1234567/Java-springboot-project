@@ -97,7 +97,7 @@ streamlit is an open-source Python framework that lets you quickly build and sha
 
 ## Access the Application
 
-Once both services are running:
+Once both services are running fine
 
 2. **Frontend Application**: `http://<FRONTEND_PUBLIC_IP>:8501`
 
