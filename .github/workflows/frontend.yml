@@ -28,7 +28,7 @@ jobs:
             REPO_NAME=Java-springboot-project
             REPO_URL=https://github.com/CloudTechDevOps/Java-springboot-project.git
 
-            echo "🚀 Starting deployment..."
+            echo "🚀 Starting deployment...."
 
             mkdir -p $APP_DIR
             cd $APP_DIR
