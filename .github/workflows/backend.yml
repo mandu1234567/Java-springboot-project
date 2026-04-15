@@ -47,7 +47,7 @@ jobs:
               cd $REPO_NAME
             fi
 
-      # 4️⃣ Build Maven app
+      # 4️⃣ Build Maven appp
       - name: Build Maven Application
         uses: appleboy/ssh-action@v1.1.0
         with:
